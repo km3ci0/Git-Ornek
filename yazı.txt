@@ -1,0 +1,2 @@
+1 deger girildi.
+2.deger silindi.
