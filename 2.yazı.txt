@@ -1,1 +1,2 @@
 2. yazý girilip commýt edilecek.
+acýlan daldan sonra bir deger girildi.
